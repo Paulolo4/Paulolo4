@@ -4,10 +4,13 @@
 
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-%23663399.svg?logo=css&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)](#)
 
 ##### Social
