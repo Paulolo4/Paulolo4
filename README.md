@@ -1,4 +1,4 @@
-# Paulo Henrique :💻:
+# Paulo Henrique 💻
 
 ##### Work with
 
