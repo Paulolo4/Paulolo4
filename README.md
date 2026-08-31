@@ -10,8 +10,8 @@
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 ##### Social
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/warley-maer-costa-lacerda-3ba9b8166)
-[![Instagram](https://img.shields.io/badge/Instagram-C13584.svg?logo=instagram&logoWidth=20&logoColor=white)](https://www.instagram.com/maercosta/)
+[![Linkedin]([https://img.shields.io/badge/LinkedIn-blue.svg?logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/warley-maer-costa-lacerda-3ba9b8166](https://www.linkedin.com/in/paulo-henrique-7384752a1?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Instagram]([https://img.shields.io/badge/Instagram-C13584.svg?logo=instagram&logoWidth=20&logoColor=white)](https://www.instagram.com/maercosta/](https://www.instagram.com/paulolo_goenji?igsi=MWpmenhtZml1aW5wOA==))
 
 ```php
 <?php
